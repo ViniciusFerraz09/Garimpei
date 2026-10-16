@@ -1,0 +1,4 @@
+project_id = "spb-t4naegux08aion02"
+
+[functions.admin-provision]
+verify_jwt = false
